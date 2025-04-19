@@ -1,0 +1,12 @@
+Casablanca 20000 
+Marrakech 40000 
+Rabat 10000 
+Agadir 50000 
+Fes 30000 
+Guelmim 81000 
+Abainou 81024 
+Ait_Boufoulne 81072 
+Asrir_Azouafit 81026 
+Afereket_Ait_Yassine 81025 
+Amsra 81122 
+Bouizakarne 81050_81054 
